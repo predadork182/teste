@@ -1,4 +1,5 @@
-# Teste do Curso de git
+### Teste do Curso de git
 
-![](./cacildis.jpg?w=120)
+<img src=”./cacildis.jpg?w=120” width="120">
+
 Esse arqui é apenas um teste do curso de git
