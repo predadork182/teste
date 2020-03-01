@@ -1,4 +1,4 @@
 # Teste do Curso de git
 
-![../cacildis.jpg](Mussum)
+![](./cacildis.jpg)
 Esse arqui é apenas um teste do curso de git
